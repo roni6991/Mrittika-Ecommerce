@@ -20,3 +20,37 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+.cat1{
+    background-color: rgb(89, 255, 205);
+  
+}
+.cat2{
+    background-color: rgb(255, 129, 156);
+   
+}
+.cat3{
+    background-color: rgb(133, 133, 255);
+}
+.name{
+    color: white;
+    font-family: 'Langar', cursive;
+}
+.name img{
+    width:100px;
+    
+}
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#subscribe{
+    height: 300px;
+
+}
+footer{
+    text-align: center;
+}
